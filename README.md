@@ -5,7 +5,7 @@ be able to send a message. This website is built for ACS 3210, 'Advanced Web Pat
 ## How to run with Docker
 1. Open Terminal and run this command to build the image.
 ```
-docker build -t chatroom
+docker build . -t chatroom
 ```
 2. Run the container by running the command below.
 ```
